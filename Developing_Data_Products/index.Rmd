@@ -15,7 +15,7 @@ knit        : slidify::knit2slides
 ## Motivation
 
 1. Learn more about the Random Forest Algorithm while doing the 'shiny' class project.
-2. Use this idea to create a product whereby tuned Random Forest models for various data sets are preloaded, end users can enter their own data and obtain predictions.
+2. Use this idea to create a product whereby tuned Random Forest models for various data sets are preloaded, end users can then enter their own data too obtain predictions.
 
 ---
 
