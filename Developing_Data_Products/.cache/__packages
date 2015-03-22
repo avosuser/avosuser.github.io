@@ -1,0 +1,11 @@
+base
+lattice
+ggplot2
+caret
+randomForest
+data.table
+shiny
+shinythemes
+slidify
+knitr
+rCharts
